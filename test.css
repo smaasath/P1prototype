@@ -1,0 +1,27 @@
+
+
+
+.a1{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 100%;
+    font-style: italic;
+    border-style: solid;
+    border-color: rgb(22, 95, 212);
+    border-radius: 10%;
+    padding:10%;
+
+}
+.btn{
+    background :transparent;
+    border-radius: 55%;
+    padding :1rem 1rem 1rem 1rem;
+    box-shadow: 10rem;
+    border: solid black;
+  
+}
+.btn:hover{
+    background-color: aqua;
+}
+.btn:active{
+    background-color: rgb(157, 255, 0);
+}
